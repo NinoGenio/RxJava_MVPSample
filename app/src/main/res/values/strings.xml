@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AuthSample</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email (info@ninogenio.com)</string>
+    <string name="prompt_password">Password (ninogenio)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+</resources>
